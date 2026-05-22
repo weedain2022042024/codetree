@@ -6,6 +6,5 @@ while True:
     if num == 0:
         break
     arr.append(num)
+    print(num)
 
-for i in arr:
-    print(i, sep='\n')
